@@ -25,7 +25,7 @@ Here are some additional details about the requirements:
 - The function to generate Pascal's triangle should be recursive.
 - The Flask API endpoint should be able to handle multiple concurrent requests.
 - The application should be dockerized. Create a docker file and enable port 8080 to be accessed over a network.
-- Push your solution to a github repository.
+- Push your solution to your own github repository.
 - Use Postman to test your API endpoints against dynamic input.
 
 hints:
